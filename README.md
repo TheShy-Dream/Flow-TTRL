@@ -44,7 +44,7 @@ To use the full potential of Flow-TTRL, please ensure the corresponding reward m
 - PickScore
 - PaddleOCR
 
-Due to the double-blind review policy, all local paths to model weights in the code have been replaced with placeholders (e.g., "xxx").
+The local paths to model weights in the code have been replaced with placeholders (e.g., "xxx").
 
 To run the demos or training scripts, you must manually update these placeholders in the following files with your local directory paths.
 
